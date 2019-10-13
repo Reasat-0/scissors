@@ -1,0 +1,39 @@
+.safari-nav{
+    display: block;
+    float:right;
+}
+.safari-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.safari-nav ul li {
+  float: left;
+  display: inline;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.safari-nav ul li a{   
+    color: #fff;
+    text-decoration: none;
+    padding: 2px 2px;
+}
+
+.safari-nav ul li a:hover{
+    border-bottom: 2px solid rgba(206, 108, 38, 0.81);
+}
+.carousel-shifter{
+    margin:0px 48%
+}
+.carousel-shifter li{
+    float: left;
+    width: 10px;
+    height: 10px
+    border-radius: 50px;
+}
+
+.carousel-shifter-icon{
+    margin-top: 100%;
+}
